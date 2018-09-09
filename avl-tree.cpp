@@ -15,8 +15,9 @@ struct node{
 template<class T>
 class tree{
 private:
-	node<T> *root=nullptr;
+	node<T> *root;
 public:
+	tree():root(nullptr){}
 	node <T> * getRoot(){
 		return root;
 	}
