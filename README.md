@@ -6,3 +6,4 @@
 5) Dijkstra Algorithm Implementation(using BinaryHeap operation)
 6) Bellman Ford Algorithm(Can Detect -Ve Cycle)
 7) Floyd Warshall Algorithm 
+8) Disjoint Set Union(O(1) Operations)
