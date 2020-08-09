@@ -7,3 +7,4 @@
 6) Bellman Ford Algorithm(Can Detect -Ve Cycle)
 7) Floyd Warshall Algorithm 
 8) Disjoint Set Union(O(1) Operations)
+9) Kruskal Algorithm(Using Disjoint Set DS) 
