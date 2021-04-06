@@ -9,3 +9,4 @@
 8) Disjoint Set Union(O(1) Operations)
 9) Kruskal Algorithm(Using Disjoint Set DS) 
 10) Prim's Algorithm (using DecreaseKey)
+11) BFS & DFS (Graph Algorithm)
