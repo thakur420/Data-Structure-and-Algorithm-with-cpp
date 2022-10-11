@@ -10,3 +10,4 @@
 9) Kruskal Algorithm(Using Disjoint Set DS) 
 10) Prim's Algorithm (using DecreaseKey)
 11) BFS & DFS (Graph Algorithm)
+12) String Hashing using plynomial rolling technique
